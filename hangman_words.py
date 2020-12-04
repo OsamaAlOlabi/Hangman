@@ -1,0 +1,16 @@
+word_list = ["doom",
+             "valorant",
+             "counter",
+             "python",
+             "swift",
+             "fart",
+             "stinky",
+             "pinky",
+             "love",
+             "chips",
+             "sonic",
+             "evil",
+             "java",
+             "german",
+             "english"
+             ]
